@@ -1,4 +1,4 @@
-import brackets from "../assets/svg/brackets";
+import brackets from "../assets/svg/Brackets";
 const Heading = ({ className, title, text, tag }) => {
     return (
         <div
